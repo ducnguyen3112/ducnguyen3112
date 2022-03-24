@@ -41,7 +41,7 @@
 
 
 <div align="center">
-  <a href=https://www.facebook.com/duc.nguyen3112/" target="blank">
+  <a href="https://www.facebook.com/duc.nguyen3112/" target="blank">
     <img src="https://github.com/ducnguyen3112/ducnguyen3112/blob/master/img/icons8-facebook.svg" alt="trungquandev-blog" />
   </a>
   &nbsp;
