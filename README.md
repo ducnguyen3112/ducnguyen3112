@@ -25,9 +25,9 @@
     <img src="img/facebook.svg" alt="ducnguyen-facebook" />
   </a>
   <a href="https://www.instagram.com/ducnguyen3112/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="ducnguyen-instagram" />
+    <img src="img/instagram.png" alt="ducnguyen-instagram" />
   </a>
   <a href="mailto:ducnguyen201231@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="ducnguyen-email" />
+    <img src="img/gmail.png" alt="ducnguyen-email" />
   </a>
 </div>
