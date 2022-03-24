@@ -18,7 +18,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=hTML5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=cSS3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span><br>
+<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=cSS3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" /></span>
 &nbsp;
