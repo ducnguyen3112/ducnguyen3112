@@ -3,10 +3,7 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
         
-        foreignObject{
-          padding-top: 20px;
-        }
-        
+        foreignObject
 span {
   position: relative; 
   display: block;
@@ -19,7 +16,6 @@ span {
   font-size: 30px;
   color: #737373;
   transition: .5s;
-  margin: auto;
 }
 span::before {
   content: '';

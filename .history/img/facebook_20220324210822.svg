@@ -6,7 +6,9 @@
         foreignObject{
           padding-top: 20px;
         }
-        
+        div{
+          
+        }
 span {
   position: relative; 
   display: block;
@@ -19,7 +21,6 @@ span {
   font-size: 30px;
   color: #737373;
   transition: .5s;
-  margin: auto;
 }
 span::before {
   content: '';

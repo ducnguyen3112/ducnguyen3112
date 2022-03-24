@@ -22,7 +22,7 @@
 <h2 align="center"> 🔍 Where to find me🔎 </h2>
 <div align="center">
   <a href="https://www.facebook.com/duc.nguyen3112/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="ducnguyen-facebook" />
+    <img src="img/facebook.svg" alt="ducnguyen-facebook" />
   </a>
   <a href="https://www.instagram.com/ducnguyen3112/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="ducnguyen-instagram" />

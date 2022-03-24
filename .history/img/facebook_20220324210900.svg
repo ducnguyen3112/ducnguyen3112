@@ -19,7 +19,7 @@ span {
   font-size: 30px;
   color: #737373;
   transition: .5s;
-  margin: auto;
+  margin: a;
 }
 span::before {
   content: '';
