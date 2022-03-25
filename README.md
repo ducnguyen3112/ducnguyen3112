@@ -55,15 +55,18 @@
 
 <div align="center">
   <a href="https://www.facebook.com/duc.nguyen3112/" target="blank">
-    <img src="https://github.com/ducnguyen3112/ducnguyen3112/blob/master/img/icons8-facebook.svg" alt="trungquandev-blog" />
+    <img src="https://github.com/ducnguyen3112/ducnguyen3112/blob/master/img/icons8-facebook.svg" alt="ducnguyen-facebook" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/ducnguyen3112/" target="blank">
-    <img src="https://github.com/ducnguyen3112/ducnguyen3112/blob/master/img/icons8-instagram.svg" alt="trungquandev-facebook" />
+    <img src="https://github.com/ducnguyen3112/ducnguyen3112/blob/master/img/icons8-instagram.svg" alt="ducnguyen-instagram" />
+  </a>
+  <a href="https://www.instagram.com/ducnguyen3112/" target="blank">
+    <img src="https://github.com/ducnguyen3112/ducnguyen3112/blob/master/img/icons8-linkedin.svg" alt="ducnguyen-linkedin" />
   </a>
    &nbsp;                                                                                                                           
   <a href="mailto:ducnguyen201231@gmail.com" target="top">
-    <img src="https://github.com/ducnguyen3112/ducnguyen3112/blob/master/img/icons8-gmail.svg" alt="trungquandev-email" />
+    <img src="https://github.com/ducnguyen3112/ducnguyen3112/blob/master/img/icons8-gmail.svg" alt="ducnguyen-email" />
   </a>
  &nbsp;                                                                                                                      
 </div> 
