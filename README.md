@@ -22,7 +22,7 @@
   <a href="https://www.instagram.com/ducnguyen3112/" target="blank">
     <img src="https://github.com/ducnguyen3112/ducnguyen3112/blob/master/img/icons8-instagram.svg" alt="ducnguyen-instagram" />
   </a>
-  <a href="https://www.instagram.com/ducnguyen3112/" target="blank">
+  <a href="https://www.linkedin.com/in/ducnguyen3112/" target="blank">
     <img src="https://github.com/ducnguyen3112/ducnguyen3112/blob/master/img/icons8-linkedin.svg" alt="ducnguyen-linkedin" />
   </a>
    &nbsp;                                                                                                                           
